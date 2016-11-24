@@ -2,6 +2,7 @@
   "name": "khang.melbourne",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://khanglu.github.io/khang.melbourne/",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.7.0"
