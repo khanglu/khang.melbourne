@@ -1,0 +1,17 @@
+.pokeball {
+  width: 20%;
+  filter:opacity(70%);
+  animation: App-logo-spin infinite 120s linear;
+  transition: 0.3s;
+}
+
+.pokeball:hover {
+  width: 22%;
+  filter:opacity(80%);
+  transition: 0.3s;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
